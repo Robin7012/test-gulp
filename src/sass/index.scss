@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+p{
+    background-color: #eee;
+    font-size: 38px;
+    color: #000;
+    transform: rotate(90deg);
+    transition: all .3s;
+}

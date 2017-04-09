@@ -1,0 +1,9 @@
+(function(){
+    console.log('one...');
+})();
+(function(){
+    console.log('three...');
+})();
+(function(){
+    console.log('two...');
+})();
